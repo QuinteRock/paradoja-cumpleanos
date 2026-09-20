@@ -133,6 +133,28 @@ body {
   color: var(--accent);
 }
 
+.director-visits {
+  margin-top: 0.75rem;
+  padding-top: 0.65rem;
+  border-top: 1px solid rgba(180, 210, 255, 0.12);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--text-dim);
+}
+
+.director-visits span {
+  font-family: var(--mono);
+  font-size: 0.9rem;
+  color: var(--accent);
+  letter-spacing: 0;
+  text-transform: none;
+}
+
 /* Elementos ocultables: ocultos por defecto hasta que el director los active */
 .reveal-target {
   display: none !important;

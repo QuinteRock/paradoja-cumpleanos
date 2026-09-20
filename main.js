@@ -997,3 +997,29 @@ btnAvg100.addEventListener("click", () => {
 applyReveals();
 updateTheoryUI();
 resetVisualState();
+trackPageVisit();
+
+/**
+ * Contador de visitas vía CountAPI (sin backend ni registro).
+ * Se muestra en el panel Opciones, fuera del lienzo 9:16.
+ * Nota: también cuenta cargas en localhost al probar.
+ */
+async function trackPageVisit() {
+  const visitCountEl = document.getElementById("visitCount");
+  if (!visitCountEl) return;
+
+  const key = "quinterock-paradoja-cumpleanos-visitas";
+  const url = `https://countapi.mileshilliard.com/api/v1/hit/${key}`;
+
+  try {
+    const res = await fetch(url);
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    const n = Number(data.value);
+    visitCountEl.textContent = Number.isFinite(n)
+      ? n.toLocaleString("es-MX")
+      : "—";
+  } catch {
+    visitCountEl.textContent = "—";
+  }
+}
