@@ -1,0 +1,2557 @@
+[
+  {
+    "day": 1,
+    "month": 1,
+    "date": "01-01",
+    "births": 3173,
+    "probability": 0.0019007523337081324
+  },
+  {
+    "day": 2,
+    "month": 1,
+    "date": "01-02",
+    "births": 4526,
+    "probability": 0.002711252777296882
+  },
+  {
+    "day": 3,
+    "month": 1,
+    "date": "01-03",
+    "births": 5196,
+    "probability": 0.0031126092423408307
+  },
+  {
+    "day": 4,
+    "month": 1,
+    "date": "01-04",
+    "births": 4968,
+    "probability": 0.002976028236325875
+  },
+  {
+    "day": 5,
+    "month": 1,
+    "date": "01-05",
+    "births": 4949,
+    "probability": 0.002964646485824629
+  },
+  {
+    "day": 6,
+    "month": 1,
+    "date": "01-06",
+    "births": 4405,
+    "probability": 0.0026387689977889453
+  },
+  {
+    "day": 7,
+    "month": 1,
+    "date": "01-07",
+    "births": 3667,
+    "probability": 0.0021966778467405364
+  },
+  {
+    "day": 8,
+    "month": 1,
+    "date": "01-08",
+    "births": 4781,
+    "probability": 0.002864007849813609
+  },
+  {
+    "day": 9,
+    "month": 1,
+    "date": "01-09",
+    "births": 4779,
+    "probability": 0.0028628097708134777
+  },
+  {
+    "day": 10,
+    "month": 1,
+    "date": "01-10",
+    "births": 4850,
+    "probability": 0.002905341575318135
+  },
+  {
+    "day": 11,
+    "month": 1,
+    "date": "01-11",
+    "births": 4686,
+    "probability": 0.0028070990973073774
+  },
+  {
+    "day": 12,
+    "month": 1,
+    "date": "01-12",
+    "births": 4928,
+    "probability": 0.002952066656323251
+  },
+  {
+    "day": 13,
+    "month": 1,
+    "date": "01-13",
+    "births": 4104,
+    "probability": 0.002458458108269201
+  },
+  {
+    "day": 14,
+    "month": 1,
+    "date": "01-14",
+    "births": 3608,
+    "probability": 0.0021613345162366663
+  },
+  {
+    "day": 15,
+    "month": 1,
+    "date": "01-15",
+    "births": 4780,
+    "probability": 0.0028634088103135433
+  },
+  {
+    "day": 16,
+    "month": 1,
+    "date": "01-16",
+    "births": 4664,
+    "probability": 0.002793920228305934
+  },
+  {
+    "day": 17,
+    "month": 1,
+    "date": "01-17",
+    "births": 4622,
+    "probability": 0.002768760569303179
+  },
+  {
+    "day": 18,
+    "month": 1,
+    "date": "01-18",
+    "births": 4686,
+    "probability": 0.0028070990973073774
+  },
+  {
+    "day": 19,
+    "month": 1,
+    "date": "01-19",
+    "births": 4776,
+    "probability": 0.002861012652313281
+  },
+  {
+    "day": 20,
+    "month": 1,
+    "date": "01-20",
+    "births": 4272,
+    "probability": 0.002559096744280221
+  },
+  {
+    "day": 21,
+    "month": 1,
+    "date": "01-21",
+    "births": 3491,
+    "probability": 0.0020912468947289916
+  },
+  {
+    "day": 22,
+    "month": 1,
+    "date": "01-22",
+    "births": 4605,
+    "probability": 0.002758576897802064
+  },
+  {
+    "day": 23,
+    "month": 1,
+    "date": "01-23",
+    "births": 4548,
+    "probability": 0.0027244316462983254
+  },
+  {
+    "day": 24,
+    "month": 1,
+    "date": "01-24",
+    "births": 4631,
+    "probability": 0.0027741519248037695
+  },
+  {
+    "day": 25,
+    "month": 1,
+    "date": "01-25",
+    "births": 4691,
+    "probability": 0.002810094294807705
+  },
+  {
+    "day": 26,
+    "month": 1,
+    "date": "01-26",
+    "births": 4652,
+    "probability": 0.002786731754305147
+  },
+  {
+    "day": 27,
+    "month": 1,
+    "date": "01-27",
+    "births": 4054,
+    "probability": 0.0024285061332659213
+  },
+  {
+    "day": 28,
+    "month": 1,
+    "date": "01-28",
+    "births": 3554,
+    "probability": 0.002128986383233124
+  },
+  {
+    "day": 29,
+    "month": 1,
+    "date": "01-29",
+    "births": 4440,
+    "probability": 0.002659735380291241
+  },
+  {
+    "day": 30,
+    "month": 1,
+    "date": "01-30",
+    "births": 4539,
+    "probability": 0.002719040290797735
+  },
+  {
+    "day": 31,
+    "month": 1,
+    "date": "01-31",
+    "births": 4356,
+    "probability": 0.002609416062285731
+  },
+  {
+    "day": 1,
+    "month": 2,
+    "date": "02-01",
+    "births": 4569,
+    "probability": 0.0027370114757997027
+  },
+  {
+    "day": 2,
+    "month": 2,
+    "date": "02-02",
+    "births": 4667,
+    "probability": 0.002795717346806131
+  },
+  {
+    "day": 3,
+    "month": 2,
+    "date": "02-03",
+    "births": 4057,
+    "probability": 0.0024303032517661183
+  },
+  {
+    "day": 4,
+    "month": 2,
+    "date": "02-04",
+    "births": 3550,
+    "probability": 0.0021265902252328617
+  },
+  {
+    "day": 5,
+    "month": 2,
+    "date": "02-05",
+    "births": 3901,
+    "probability": 0.0023368530897558853
+  },
+  {
+    "day": 6,
+    "month": 2,
+    "date": "02-06",
+    "births": 4505,
+    "probability": 0.002698672947795505
+  },
+  {
+    "day": 7,
+    "month": 2,
+    "date": "02-07",
+    "births": 4782,
+    "probability": 0.0028646068893136744
+  },
+  {
+    "day": 8,
+    "month": 2,
+    "date": "02-08",
+    "births": 4717,
+    "probability": 0.002825669321809411
+  },
+  {
+    "day": 9,
+    "month": 2,
+    "date": "02-09",
+    "births": 4651,
+    "probability": 0.0027861327148050816
+  },
+  {
+    "day": 10,
+    "month": 2,
+    "date": "02-10",
+    "births": 4359,
+    "probability": 0.0026112131807859277
+  },
+  {
+    "day": 11,
+    "month": 2,
+    "date": "02-11",
+    "births": 3586,
+    "probability": 0.002148155647235223
+  },
+  {
+    "day": 12,
+    "month": 2,
+    "date": "02-12",
+    "births": 4579,
+    "probability": 0.0027430018708003586
+  },
+  {
+    "day": 13,
+    "month": 2,
+    "date": "02-13",
+    "births": 4294,
+    "probability": 0.0025722756132816643
+  },
+  {
+    "day": 14,
+    "month": 2,
+    "date": "02-14",
+    "births": 4490,
+    "probability": 0.002689687355294521
+  },
+  {
+    "day": 15,
+    "month": 2,
+    "date": "02-15",
+    "births": 4647,
+    "probability": 0.002783736556804819
+  },
+  {
+    "day": 16,
+    "month": 2,
+    "date": "02-16",
+    "births": 4535,
+    "probability": 0.0027166441327974725
+  },
+  {
+    "day": 17,
+    "month": 2,
+    "date": "02-17",
+    "births": 3966,
+    "probability": 0.002375790657260149
+  },
+  {
+    "day": 18,
+    "month": 2,
+    "date": "02-18",
+    "births": 3453,
+    "probability": 0.0020684833937264988
+  },
+  {
+    "day": 19,
+    "month": 2,
+    "date": "02-19",
+    "births": 4246,
+    "probability": 0.0025435217172785156
+  },
+  {
+    "day": 20,
+    "month": 2,
+    "date": "02-20",
+    "births": 4690,
+    "probability": 0.0028094952553076396
+  },
+  {
+    "day": 21,
+    "month": 2,
+    "date": "02-21",
+    "births": 4397,
+    "probability": 0.0026339766817884205
+  },
+  {
+    "day": 22,
+    "month": 2,
+    "date": "02-22",
+    "births": 4363,
+    "probability": 0.0026136093387861903
+  },
+  {
+    "day": 23,
+    "month": 2,
+    "date": "02-23",
+    "births": 4494,
+    "probability": 0.002692083513294783
+  },
+  {
+    "day": 24,
+    "month": 2,
+    "date": "02-24",
+    "births": 3957,
+    "probability": 0.0023703993017595588
+  },
+  {
+    "day": 25,
+    "month": 2,
+    "date": "02-25",
+    "births": 3481,
+    "probability": 0.0020852564997283357
+  },
+  {
+    "day": 26,
+    "month": 2,
+    "date": "02-26",
+    "births": 4337,
+    "probability": 0.002598034311784485
+  },
+  {
+    "day": 27,
+    "month": 2,
+    "date": "02-27",
+    "births": 4401,
+    "probability": 0.0026363728397886827
+  },
+  {
+    "day": 28,
+    "month": 2,
+    "date": "02-28",
+    "births": 4552,
+    "probability": 0.0027268278042985876
+  },
+  {
+    "day": 1,
+    "month": 3,
+    "date": "03-01",
+    "births": 4780,
+    "probability": 0.0028634088103135433
+  },
+  {
+    "day": 2,
+    "month": 3,
+    "date": "03-02",
+    "births": 4027,
+    "probability": 0.0024123320667641503
+  },
+  {
+    "day": 3,
+    "month": 3,
+    "date": "03-03",
+    "births": 3505,
+    "probability": 0.00209963344772991
+  },
+  {
+    "day": 4,
+    "month": 3,
+    "date": "03-04",
+    "births": 4427,
+    "probability": 0.002651947866790388
+  },
+  {
+    "day": 5,
+    "month": 3,
+    "date": "03-05",
+    "births": 4473,
+    "probability": 0.0026795036837934058
+  },
+  {
+    "day": 6,
+    "month": 3,
+    "date": "03-06",
+    "births": 4456,
+    "probability": 0.0026693200122922906
+  },
+  {
+    "day": 7,
+    "month": 3,
+    "date": "03-07",
+    "births": 4367,
+    "probability": 0.0026160054967864525
+  },
+  {
+    "day": 8,
+    "month": 3,
+    "date": "03-08",
+    "births": 4568,
+    "probability": 0.002736412436299637
+  },
+  {
+    "day": 9,
+    "month": 3,
+    "date": "03-09",
+    "births": 4121,
+    "probability": 0.002468641779770316
+  },
+  {
+    "day": 10,
+    "month": 3,
+    "date": "03-10",
+    "births": 3473,
+    "probability": 0.002080464183727811
+  },
+  {
+    "day": 11,
+    "month": 3,
+    "date": "03-11",
+    "births": 4420,
+    "probability": 0.0026477545902899293
+  },
+  {
+    "day": 12,
+    "month": 3,
+    "date": "03-12",
+    "births": 4454,
+    "probability": 0.0026681219332921596
+  },
+  {
+    "day": 13,
+    "month": 3,
+    "date": "03-13",
+    "births": 4191,
+    "probability": 0.0025105745447749077
+  },
+  {
+    "day": 14,
+    "month": 3,
+    "date": "03-14",
+    "births": 4483,
+    "probability": 0.0026854940787940616
+  },
+  {
+    "day": 15,
+    "month": 3,
+    "date": "03-15",
+    "births": 4689,
+    "probability": 0.002808896215807574
+  },
+  {
+    "day": 16,
+    "month": 3,
+    "date": "03-16",
+    "births": 3829,
+    "probability": 0.0022937222457511627
+  },
+  {
+    "day": 17,
+    "month": 3,
+    "date": "03-17",
+    "births": 3409,
+    "probability": 0.0020421256557236127
+  },
+  {
+    "day": 18,
+    "month": 3,
+    "date": "03-18",
+    "births": 3725,
+    "probability": 0.002231422137744341
+  },
+  {
+    "day": 19,
+    "month": 3,
+    "date": "03-19",
+    "births": 4437,
+    "probability": 0.0026579382617910445
+  },
+  {
+    "day": 20,
+    "month": 3,
+    "date": "03-20",
+    "births": 4538,
+    "probability": 0.002718441251297669
+  },
+  {
+    "day": 21,
+    "month": 3,
+    "date": "03-21",
+    "births": 4478,
+    "probability": 0.0026824988812937335
+  },
+  {
+    "day": 22,
+    "month": 3,
+    "date": "03-22",
+    "births": 4551,
+    "probability": 0.002726228764798522
+  },
+  {
+    "day": 23,
+    "month": 3,
+    "date": "03-23",
+    "births": 3937,
+    "probability": 0.002358418511758247
+  },
+  {
+    "day": 24,
+    "month": 3,
+    "date": "03-24",
+    "births": 3378,
+    "probability": 0.0020235554312215795
+  },
+  {
+    "day": 25,
+    "month": 3,
+    "date": "03-25",
+    "births": 4559,
+    "probability": 0.002731021080799047
+  },
+  {
+    "day": 26,
+    "month": 3,
+    "date": "03-26",
+    "births": 4627,
+    "probability": 0.0027717557668035073
+  },
+  {
+    "day": 27,
+    "month": 3,
+    "date": "03-27",
+    "births": 4499,
+    "probability": 0.002695078710795111
+  },
+  {
+    "day": 28,
+    "month": 3,
+    "date": "03-28",
+    "births": 3942,
+    "probability": 0.0023614137092585748
+  },
+  {
+    "day": 29,
+    "month": 3,
+    "date": "03-29",
+    "births": 3527,
+    "probability": 0.002112812316731353
+  },
+  {
+    "day": 30,
+    "month": 3,
+    "date": "03-30",
+    "births": 3612,
+    "probability": 0.0021637306742369284
+  },
+  {
+    "day": 31,
+    "month": 3,
+    "date": "03-31",
+    "births": 3106,
+    "probability": 0.0018606166872037375
+  },
+  {
+    "day": 1,
+    "month": 4,
+    "date": "04-01",
+    "births": 4596,
+    "probability": 0.0027531855423014737
+  },
+  {
+    "day": 2,
+    "month": 4,
+    "date": "04-02",
+    "births": 4655,
+    "probability": 0.002788528872805344
+  },
+  {
+    "day": 3,
+    "month": 4,
+    "date": "04-03",
+    "births": 4483,
+    "probability": 0.0026854940787940616
+  },
+  {
+    "day": 4,
+    "month": 4,
+    "date": "04-04",
+    "births": 4529,
+    "probability": 0.002713049895797079
+  },
+  {
+    "day": 5,
+    "month": 4,
+    "date": "04-05",
+    "births": 4583,
+    "probability": 0.002745398028800621
+  },
+  {
+    "day": 6,
+    "month": 4,
+    "date": "04-06",
+    "births": 4050,
+    "probability": 0.002426109975265659
+  },
+  {
+    "day": 7,
+    "month": 4,
+    "date": "04-07",
+    "births": 3560,
+    "probability": 0.0021325806202335176
+  },
+  {
+    "day": 8,
+    "month": 4,
+    "date": "04-08",
+    "births": 4204,
+    "probability": 0.0025183620582757606
+  },
+  {
+    "day": 9,
+    "month": 4,
+    "date": "04-09",
+    "births": 4327,
+    "probability": 0.002592043916783829
+  },
+  {
+    "day": 10,
+    "month": 4,
+    "date": "04-10",
+    "births": 4727,
+    "probability": 0.002831659716810067
+  },
+  {
+    "day": 11,
+    "month": 4,
+    "date": "04-11",
+    "births": 4427,
+    "probability": 0.002651947866790388
+  },
+  {
+    "day": 12,
+    "month": 4,
+    "date": "04-12",
+    "births": 4632,
+    "probability": 0.0027747509643038354
+  },
+  {
+    "day": 13,
+    "month": 4,
+    "date": "04-13",
+    "births": 4015,
+    "probability": 0.0024051435927633633
+  },
+  {
+    "day": 14,
+    "month": 4,
+    "date": "04-14",
+    "births": 3390,
+    "probability": 0.0020307439052223665
+  },
+  {
+    "day": 15,
+    "month": 4,
+    "date": "04-15",
+    "births": 4468,
+    "probability": 0.0026765084862930776
+  },
+  {
+    "day": 16,
+    "month": 4,
+    "date": "04-16",
+    "births": 4394,
+    "probability": 0.0026321795632882235
+  },
+  {
+    "day": 17,
+    "month": 4,
+    "date": "04-17",
+    "births": 4370,
+    "probability": 0.0026178026152866496
+  },
+  {
+    "day": 18,
+    "month": 4,
+    "date": "04-18",
+    "births": 4540,
+    "probability": 0.0027196393302978007
+  },
+  {
+    "day": 19,
+    "month": 4,
+    "date": "04-19",
+    "births": 4476,
+    "probability": 0.0026813008022936024
+  },
+  {
+    "day": 20,
+    "month": 4,
+    "date": "04-20",
+    "births": 3984,
+    "probability": 0.0023865733682613298
+  },
+  {
+    "day": 21,
+    "month": 4,
+    "date": "04-21",
+    "births": 3320,
+    "probability": 0.001988811140217775
+  },
+  {
+    "day": 22,
+    "month": 4,
+    "date": "04-22",
+    "births": 4465,
+    "probability": 0.002674711367792881
+  },
+  {
+    "day": 23,
+    "month": 4,
+    "date": "04-23",
+    "births": 4322,
+    "probability": 0.002589048719283501
+  },
+  {
+    "day": 24,
+    "month": 4,
+    "date": "04-24",
+    "births": 4354,
+    "probability": 0.0026082179832856
+  },
+  {
+    "day": 25,
+    "month": 4,
+    "date": "04-25",
+    "births": 4539,
+    "probability": 0.002719040290797735
+  },
+  {
+    "day": 26,
+    "month": 4,
+    "date": "04-26",
+    "births": 4468,
+    "probability": 0.0026765084862930776
+  },
+  {
+    "day": 27,
+    "month": 4,
+    "date": "04-27",
+    "births": 3886,
+    "probability": 0.0023278674972549013
+  },
+  {
+    "day": 28,
+    "month": 4,
+    "date": "04-28",
+    "births": 3388,
+    "probability": 0.0020295458262222354
+  },
+  {
+    "day": 29,
+    "month": 4,
+    "date": "04-29",
+    "births": 4290,
+    "probability": 0.0025698794552814017
+  },
+  {
+    "day": 30,
+    "month": 4,
+    "date": "04-30",
+    "births": 4534,
+    "probability": 0.002716045093297407
+  },
+  {
+    "day": 1,
+    "month": 5,
+    "date": "05-01",
+    "births": 3841,
+    "probability": 0.0023009107197519496
+  },
+  {
+    "day": 2,
+    "month": 5,
+    "date": "05-02",
+    "births": 4409,
+    "probability": 0.0026411651557892075
+  },
+  {
+    "day": 3,
+    "month": 5,
+    "date": "05-03",
+    "births": 4690,
+    "probability": 0.0028094952553076396
+  },
+  {
+    "day": 4,
+    "month": 5,
+    "date": "05-04",
+    "births": 4166,
+    "probability": 0.0024955985572732682
+  },
+  {
+    "day": 5,
+    "month": 5,
+    "date": "05-05",
+    "births": 3522,
+    "probability": 0.002109817119231025
+  },
+  {
+    "day": 6,
+    "month": 5,
+    "date": "05-06",
+    "births": 4433,
+    "probability": 0.002655542103790782
+  },
+  {
+    "day": 7,
+    "month": 5,
+    "date": "05-07",
+    "births": 4609,
+    "probability": 0.0027609730558023266
+  },
+  {
+    "day": 8,
+    "month": 5,
+    "date": "05-08",
+    "births": 4698,
+    "probability": 0.0028142875713081644
+  },
+  {
+    "day": 9,
+    "month": 5,
+    "date": "05-09",
+    "births": 4440,
+    "probability": 0.002659735380291241
+  },
+  {
+    "day": 10,
+    "month": 5,
+    "date": "05-10",
+    "births": 4040,
+    "probability": 0.0024201195802650032
+  },
+  {
+    "day": 11,
+    "month": 5,
+    "date": "05-11",
+    "births": 4056,
+    "probability": 0.002429704212266053
+  },
+  {
+    "day": 12,
+    "month": 5,
+    "date": "05-12",
+    "births": 3711,
+    "probability": 0.0022230355847434225
+  },
+  {
+    "day": 13,
+    "month": 5,
+    "date": "05-13",
+    "births": 4569,
+    "probability": 0.0027370114757997027
+  },
+  {
+    "day": 14,
+    "month": 5,
+    "date": "05-14",
+    "births": 4657,
+    "probability": 0.002789726951805475
+  },
+  {
+    "day": 15,
+    "month": 5,
+    "date": "05-15",
+    "births": 4563,
+    "probability": 0.002733417238799309
+  },
+  {
+    "day": 16,
+    "month": 5,
+    "date": "05-16",
+    "births": 4507,
+    "probability": 0.002699871026795636
+  },
+  {
+    "day": 17,
+    "month": 5,
+    "date": "05-17",
+    "births": 4575,
+    "probability": 0.0027406057128000964
+  },
+  {
+    "day": 18,
+    "month": 5,
+    "date": "05-18",
+    "births": 3917,
+    "probability": 0.002346437721756935
+  },
+  {
+    "day": 19,
+    "month": 5,
+    "date": "05-19",
+    "births": 3440,
+    "probability": 0.0020606958802256463
+  },
+  {
+    "day": 20,
+    "month": 5,
+    "date": "05-20",
+    "births": 4439,
+    "probability": 0.0026591363407911755
+  },
+  {
+    "day": 21,
+    "month": 5,
+    "date": "05-21",
+    "births": 4451,
+    "probability": 0.0026663248147919625
+  },
+  {
+    "day": 22,
+    "month": 5,
+    "date": "05-22",
+    "births": 4444,
+    "probability": 0.0026621315382915033
+  },
+  {
+    "day": 23,
+    "month": 5,
+    "date": "05-23",
+    "births": 4459,
+    "probability": 0.0026711171307924873
+  },
+  {
+    "day": 24,
+    "month": 5,
+    "date": "05-24",
+    "births": 4524,
+    "probability": 0.002710054698296751
+  },
+  {
+    "day": 25,
+    "month": 5,
+    "date": "05-25",
+    "births": 4097,
+    "probability": 0.002454264831768742
+  },
+  {
+    "day": 26,
+    "month": 5,
+    "date": "05-26",
+    "births": 3304,
+    "probability": 0.0019792265082167254
+  },
+  {
+    "day": 27,
+    "month": 5,
+    "date": "05-27",
+    "births": 4440,
+    "probability": 0.002659735380291241
+  },
+  {
+    "day": 28,
+    "month": 5,
+    "date": "05-28",
+    "births": 4453,
+    "probability": 0.0026675228937920936
+  },
+  {
+    "day": 29,
+    "month": 5,
+    "date": "05-29",
+    "births": 4314,
+    "probability": 0.002584256403282976
+  },
+  {
+    "day": 30,
+    "month": 5,
+    "date": "05-30",
+    "births": 4494,
+    "probability": 0.002692083513294783
+  },
+  {
+    "day": 31,
+    "month": 5,
+    "date": "05-31",
+    "births": 4344,
+    "probability": 0.002602227588284944
+  },
+  {
+    "day": 1,
+    "month": 6,
+    "date": "06-01",
+    "births": 4186,
+    "probability": 0.00250757934727458
+  },
+  {
+    "day": 2,
+    "month": 6,
+    "date": "06-02",
+    "births": 3443,
+    "probability": 0.002062492998725843
+  },
+  {
+    "day": 3,
+    "month": 6,
+    "date": "06-03",
+    "births": 4610,
+    "probability": 0.002761572095302392
+  },
+  {
+    "day": 4,
+    "month": 6,
+    "date": "06-04",
+    "births": 4554,
+    "probability": 0.0027280258832987187
+  },
+  {
+    "day": 5,
+    "month": 6,
+    "date": "06-05",
+    "births": 4699,
+    "probability": 0.00281488661080823
+  },
+  {
+    "day": 6,
+    "month": 6,
+    "date": "06-06",
+    "births": 4573,
+    "probability": 0.0027394076337999653
+  },
+  {
+    "day": 7,
+    "month": 6,
+    "date": "06-07",
+    "births": 4642,
+    "probability": 0.0027807413593044913
+  },
+  {
+    "day": 8,
+    "month": 6,
+    "date": "06-08",
+    "births": 4215,
+    "probability": 0.002524951492776482
+  },
+  {
+    "day": 9,
+    "month": 6,
+    "date": "06-09",
+    "births": 3549,
+    "probability": 0.002125991185732796
+  },
+  {
+    "day": 10,
+    "month": 6,
+    "date": "06-10",
+    "births": 4830,
+    "probability": 0.002893360785316823
+  },
+  {
+    "day": 11,
+    "month": 6,
+    "date": "06-11",
+    "births": 4483,
+    "probability": 0.0026854940787940616
+  },
+  {
+    "day": 12,
+    "month": 6,
+    "date": "06-12",
+    "births": 4511,
+    "probability": 0.002702267184795898
+  },
+  {
+    "day": 13,
+    "month": 6,
+    "date": "06-13",
+    "births": 4540,
+    "probability": 0.0027196393302978007
+  },
+  {
+    "day": 14,
+    "month": 6,
+    "date": "06-14",
+    "births": 4631,
+    "probability": 0.0027741519248037695
+  },
+  {
+    "day": 15,
+    "month": 6,
+    "date": "06-15",
+    "births": 4058,
+    "probability": 0.002430902291266184
+  },
+  {
+    "day": 16,
+    "month": 6,
+    "date": "06-16",
+    "births": 3530,
+    "probability": 0.0021146094352315495
+  },
+  {
+    "day": 17,
+    "month": 6,
+    "date": "06-17",
+    "births": 4679,
+    "probability": 0.002802905820806918
+  },
+  {
+    "day": 18,
+    "month": 6,
+    "date": "06-18",
+    "births": 4511,
+    "probability": 0.002702267184795898
+  },
+  {
+    "day": 19,
+    "month": 6,
+    "date": "06-19",
+    "births": 4407,
+    "probability": 0.0026399670767890764
+  },
+  {
+    "day": 20,
+    "month": 6,
+    "date": "06-20",
+    "births": 4619,
+    "probability": 0.0027669634508029825
+  },
+  {
+    "day": 21,
+    "month": 6,
+    "date": "06-21",
+    "births": 4600,
+    "probability": 0.0027555817003017363
+  },
+  {
+    "day": 22,
+    "month": 6,
+    "date": "06-22",
+    "births": 3985,
+    "probability": 0.0023871724077613953
+  },
+  {
+    "day": 23,
+    "month": 6,
+    "date": "06-23",
+    "births": 3515,
+    "probability": 0.002105623842730566
+  },
+  {
+    "day": 24,
+    "month": 6,
+    "date": "06-24",
+    "births": 4657,
+    "probability": 0.002789726951805475
+  },
+  {
+    "day": 25,
+    "month": 6,
+    "date": "06-25",
+    "births": 4498,
+    "probability": 0.0026944796712950457
+  },
+  {
+    "day": 26,
+    "month": 6,
+    "date": "06-26",
+    "births": 4570,
+    "probability": 0.0027376105152997683
+  },
+  {
+    "day": 27,
+    "month": 6,
+    "date": "06-27",
+    "births": 4545,
+    "probability": 0.0027226345277981284
+  },
+  {
+    "day": 28,
+    "month": 6,
+    "date": "06-28",
+    "births": 4586,
+    "probability": 0.002747195147300818
+  },
+  {
+    "day": 29,
+    "month": 6,
+    "date": "06-29",
+    "births": 3989,
+    "probability": 0.002389568565761658
+  },
+  {
+    "day": 30,
+    "month": 6,
+    "date": "06-30",
+    "births": 3513,
+    "probability": 0.0021044257637304344
+  },
+  {
+    "day": 1,
+    "month": 7,
+    "date": "07-01",
+    "births": 4703,
+    "probability": 0.0028172827688084925
+  },
+  {
+    "day": 2,
+    "month": 7,
+    "date": "07-02",
+    "births": 4444,
+    "probability": 0.0026621315382915033
+  },
+  {
+    "day": 3,
+    "month": 7,
+    "date": "07-03",
+    "births": 4727,
+    "probability": 0.002831659716810067
+  },
+  {
+    "day": 4,
+    "month": 7,
+    "date": "07-04",
+    "births": 4572,
+    "probability": 0.0027388085942998994
+  },
+  {
+    "day": 5,
+    "month": 7,
+    "date": "07-05",
+    "births": 4723,
+    "probability": 0.0028292635588098042
+  },
+  {
+    "day": 6,
+    "month": 7,
+    "date": "07-06",
+    "births": 4103,
+    "probability": 0.0024578590687691355
+  },
+  {
+    "day": 7,
+    "month": 7,
+    "date": "07-07",
+    "births": 3752,
+    "probability": 0.002247596204246112
+  },
+  {
+    "day": 8,
+    "month": 7,
+    "date": "07-08",
+    "births": 4792,
+    "probability": 0.0028705972843143302
+  },
+  {
+    "day": 9,
+    "month": 7,
+    "date": "07-09",
+    "births": 4550,
+    "probability": 0.0027256297252984565
+  },
+  {
+    "day": 10,
+    "month": 7,
+    "date": "07-10",
+    "births": 4907,
+    "probability": 0.002939486826821874
+  },
+  {
+    "day": 11,
+    "month": 7,
+    "date": "07-11",
+    "births": 4620,
+    "probability": 0.002767562490303048
+  },
+  {
+    "day": 12,
+    "month": 7,
+    "date": "07-12",
+    "births": 4753,
+    "probability": 0.0028472347438117723
+  },
+  {
+    "day": 13,
+    "month": 7,
+    "date": "07-13",
+    "births": 4209,
+    "probability": 0.002521357255776089
+  },
+  {
+    "day": 14,
+    "month": 7,
+    "date": "07-14",
+    "births": 3736,
+    "probability": 0.0022380115722450624
+  },
+  {
+    "day": 15,
+    "month": 7,
+    "date": "07-15",
+    "births": 4871,
+    "probability": 0.0029179214048195125
+  },
+  {
+    "day": 16,
+    "month": 7,
+    "date": "07-16",
+    "births": 4712,
+    "probability": 0.002822674124309083
+  },
+  {
+    "day": 17,
+    "month": 7,
+    "date": "07-17",
+    "births": 4810,
+    "probability": 0.0028813799953155113
+  },
+  {
+    "day": 18,
+    "month": 7,
+    "date": "07-18",
+    "births": 4811,
+    "probability": 0.002881979034815577
+  },
+  {
+    "day": 19,
+    "month": 7,
+    "date": "07-19",
+    "births": 4890,
+    "probability": 0.0029293031553207587
+  },
+  {
+    "day": 20,
+    "month": 7,
+    "date": "07-20",
+    "births": 4504,
+    "probability": 0.002698073908295439
+  },
+  {
+    "day": 21,
+    "month": 7,
+    "date": "07-21",
+    "births": 3811,
+    "probability": 0.002282939534749982
+  },
+  {
+    "day": 22,
+    "month": 7,
+    "date": "07-22",
+    "births": 4818,
+    "probability": 0.0028861723113160357
+  },
+  {
+    "day": 23,
+    "month": 7,
+    "date": "07-23",
+    "births": 4774,
+    "probability": 0.0028598145733131496
+  },
+  {
+    "day": 24,
+    "month": 7,
+    "date": "07-24",
+    "births": 4709,
+    "probability": 0.002820877005808886
+  },
+  {
+    "day": 25,
+    "month": 7,
+    "date": "07-25",
+    "births": 4886,
+    "probability": 0.002926906997320496
+  },
+  {
+    "day": 26,
+    "month": 7,
+    "date": "07-26",
+    "births": 4869,
+    "probability": 0.002916723325819381
+  },
+  {
+    "day": 27,
+    "month": 7,
+    "date": "07-27",
+    "births": 4367,
+    "probability": 0.0026160054967864525
+  },
+  {
+    "day": 28,
+    "month": 7,
+    "date": "07-28",
+    "births": 3844,
+    "probability": 0.0023027078382521467
+  },
+  {
+    "day": 29,
+    "month": 7,
+    "date": "07-29",
+    "births": 4780,
+    "probability": 0.0028634088103135433
+  },
+  {
+    "day": 30,
+    "month": 7,
+    "date": "07-30",
+    "births": 4866,
+    "probability": 0.0029149262073191844
+  },
+  {
+    "day": 31,
+    "month": 7,
+    "date": "07-31",
+    "births": 4840,
+    "probability": 0.002899351180317479
+  },
+  {
+    "day": 1,
+    "month": 8,
+    "date": "08-01",
+    "births": 5085,
+    "probability": 0.0030461158578335497
+  },
+  {
+    "day": 2,
+    "month": 8,
+    "date": "08-02",
+    "births": 5224,
+    "probability": 0.003129382348342667
+  },
+  {
+    "day": 3,
+    "month": 8,
+    "date": "08-03",
+    "births": 4329,
+    "probability": 0.00259324199578396
+  },
+  {
+    "day": 4,
+    "month": 8,
+    "date": "08-04",
+    "births": 3818,
+    "probability": 0.002287132811250441
+  },
+  {
+    "day": 5,
+    "month": 8,
+    "date": "08-05",
+    "births": 4973,
+    "probability": 0.002979023433826203
+  },
+  {
+    "day": 6,
+    "month": 8,
+    "date": "08-06",
+    "births": 4924,
+    "probability": 0.002949670498322989
+  },
+  {
+    "day": 7,
+    "month": 8,
+    "date": "08-07",
+    "births": 4843,
+    "probability": 0.0029011482988176756
+  },
+  {
+    "day": 8,
+    "month": 8,
+    "date": "08-08",
+    "births": 5383,
+    "probability": 0.003224629628853097
+  },
+  {
+    "day": 9,
+    "month": 8,
+    "date": "08-09",
+    "births": 5089,
+    "probability": 0.003048512015833812
+  },
+  {
+    "day": 10,
+    "month": 8,
+    "date": "08-10",
+    "births": 4750,
+    "probability": 0.0028454376253115752
+  },
+  {
+    "day": 11,
+    "month": 8,
+    "date": "08-11",
+    "births": 3958,
+    "probability": 0.0023709983412596243
+  },
+  {
+    "day": 12,
+    "month": 8,
+    "date": "08-12",
+    "births": 5024,
+    "probability": 0.0030095744483295485
+  },
+  {
+    "day": 13,
+    "month": 8,
+    "date": "08-13",
+    "births": 4914,
+    "probability": 0.002943680103322333
+  },
+  {
+    "day": 14,
+    "month": 8,
+    "date": "08-14",
+    "births": 4958,
+    "probability": 0.002970037841325219
+  },
+  {
+    "day": 15,
+    "month": 8,
+    "date": "08-15",
+    "births": 5274,
+    "probability": 0.003159334323345947
+  },
+  {
+    "day": 16,
+    "month": 8,
+    "date": "08-16",
+    "births": 5275,
+    "probability": 0.0031599333628460125
+  },
+  {
+    "day": 17,
+    "month": 8,
+    "date": "08-17",
+    "births": 4626,
+    "probability": 0.0027711567273034417
+  },
+  {
+    "day": 18,
+    "month": 8,
+    "date": "08-18",
+    "births": 4115,
+    "probability": 0.002465047542769923
+  },
+  {
+    "day": 19,
+    "month": 8,
+    "date": "08-19",
+    "births": 5022,
+    "probability": 0.0030083763693294174
+  },
+  {
+    "day": 20,
+    "month": 8,
+    "date": "08-20",
+    "births": 5164,
+    "probability": 0.0030934399783387316
+  },
+  {
+    "day": 21,
+    "month": 8,
+    "date": "08-21",
+    "births": 5136,
+    "probability": 0.003076666872336895
+  },
+  {
+    "day": 22,
+    "month": 8,
+    "date": "08-22",
+    "births": 5076,
+    "probability": 0.0030407245023329594
+  },
+  {
+    "day": 23,
+    "month": 8,
+    "date": "08-23",
+    "births": 5173,
+    "probability": 0.003098831333839322
+  },
+  {
+    "day": 24,
+    "month": 8,
+    "date": "08-24",
+    "births": 4601,
+    "probability": 0.002756180739801802
+  },
+  {
+    "day": 25,
+    "month": 8,
+    "date": "08-25",
+    "births": 4101,
+    "probability": 0.0024566609897690044
+  },
+  {
+    "day": 26,
+    "month": 8,
+    "date": "08-26",
+    "births": 4940,
+    "probability": 0.0029592551303240385
+  },
+  {
+    "day": 27,
+    "month": 8,
+    "date": "08-27",
+    "births": 4941,
+    "probability": 0.002959854169824104
+  },
+  {
+    "day": 28,
+    "month": 8,
+    "date": "08-28",
+    "births": 5357,
+    "probability": 0.0032090546018513915
+  },
+  {
+    "day": 29,
+    "month": 8,
+    "date": "08-29",
+    "births": 5150,
+    "probability": 0.0030850534253378135
+  },
+  {
+    "day": 30,
+    "month": 8,
+    "date": "08-30",
+    "births": 5401,
+    "probability": 0.0032354123398542775
+  },
+  {
+    "day": 31,
+    "month": 8,
+    "date": "08-31",
+    "births": 4509,
+    "probability": 0.002701069105795767
+  },
+  {
+    "day": 1,
+    "month": 9,
+    "date": "09-01",
+    "births": 4272,
+    "probability": 0.002559096744280221
+  },
+  {
+    "day": 2,
+    "month": 9,
+    "date": "09-02",
+    "births": 5259,
+    "probability": 0.003150348730844963
+  },
+  {
+    "day": 3,
+    "month": 9,
+    "date": "09-03",
+    "births": 5148,
+    "probability": 0.003083855346337682
+  },
+  {
+    "day": 4,
+    "month": 9,
+    "date": "09-04",
+    "births": 5359,
+    "probability": 0.0032102526808515225
+  },
+  {
+    "day": 5,
+    "month": 9,
+    "date": "09-05",
+    "births": 5583,
+    "probability": 0.003344437528866216
+  },
+  {
+    "day": 6,
+    "month": 9,
+    "date": "09-06",
+    "births": 5398,
+    "probability": 0.003233615221354081
+  },
+  {
+    "day": 7,
+    "month": 9,
+    "date": "09-07",
+    "births": 5147,
+    "probability": 0.0030832563068376164
+  },
+  {
+    "day": 8,
+    "month": 9,
+    "date": "09-08",
+    "births": 4475,
+    "probability": 0.002680701762793537
+  },
+  {
+    "day": 9,
+    "month": 9,
+    "date": "09-09",
+    "births": 5597,
+    "probability": 0.003352824081867134
+  },
+  {
+    "day": 10,
+    "month": 9,
+    "date": "09-10",
+    "births": 5536,
+    "probability": 0.003316282672363133
+  },
+  {
+    "day": 11,
+    "month": 9,
+    "date": "09-11",
+    "births": 5554,
+    "probability": 0.0033270653833643135
+  },
+  {
+    "day": 12,
+    "month": 9,
+    "date": "09-12",
+    "births": 5730,
+    "probability": 0.0034324963353758583
+  },
+  {
+    "day": 13,
+    "month": 9,
+    "date": "09-13",
+    "births": 5628,
+    "probability": 0.0033713943063691677
+  },
+  {
+    "day": 14,
+    "month": 9,
+    "date": "09-14",
+    "births": 5186,
+    "probability": 0.003106618847340175
+  },
+  {
+    "day": 15,
+    "month": 9,
+    "date": "09-15",
+    "births": 4435,
+    "probability": 0.002656740182790913
+  },
+  {
+    "day": 16,
+    "month": 9,
+    "date": "09-16",
+    "births": 4331,
+    "probability": 0.002594440074784091
+  },
+  {
+    "day": 17,
+    "month": 9,
+    "date": "09-17",
+    "births": 5514,
+    "probability": 0.00330310380336169
+  },
+  {
+    "day": 18,
+    "month": 9,
+    "date": "09-18",
+    "births": 5899,
+    "probability": 0.003533734010886944
+  },
+  {
+    "day": 19,
+    "month": 9,
+    "date": "09-19",
+    "births": 5722,
+    "probability": 0.0034277040193753335
+  },
+  {
+    "day": 20,
+    "month": 9,
+    "date": "09-20",
+    "births": 5983,
+    "probability": 0.003584053328892454
+  },
+  {
+    "day": 21,
+    "month": 9,
+    "date": "09-21",
+    "births": 5116,
+    "probability": 0.0030646860823355833
+  },
+  {
+    "day": 22,
+    "month": 9,
+    "date": "09-22",
+    "births": 4551,
+    "probability": 0.002726228764798522
+  },
+  {
+    "day": 23,
+    "month": 9,
+    "date": "09-23",
+    "births": 5357,
+    "probability": 0.0032090546018513915
+  },
+  {
+    "day": 24,
+    "month": 9,
+    "date": "09-24",
+    "births": 5212,
+    "probability": 0.0031221938743418803
+  },
+  {
+    "day": 25,
+    "month": 9,
+    "date": "09-25",
+    "births": 5286,
+    "probability": 0.0031665227973467344
+  },
+  {
+    "day": 26,
+    "month": 9,
+    "date": "09-26",
+    "births": 5251,
+    "probability": 0.0031455564148444386
+  },
+  {
+    "day": 27,
+    "month": 9,
+    "date": "09-27",
+    "births": 5459,
+    "probability": 0.003270156630858082
+  },
+  {
+    "day": 28,
+    "month": 9,
+    "date": "09-28",
+    "births": 4784,
+    "probability": 0.0028658049683138054
+  },
+  {
+    "day": 29,
+    "month": 9,
+    "date": "09-29",
+    "births": 4299,
+    "probability": 0.002575270810781992
+  },
+  {
+    "day": 30,
+    "month": 9,
+    "date": "09-30",
+    "births": 5053,
+    "probability": 0.0030269465938314506
+  },
+  {
+    "day": 1,
+    "month": 10,
+    "date": "10-01",
+    "births": 4798,
+    "probability": 0.002874191521314724
+  },
+  {
+    "day": 2,
+    "month": 10,
+    "date": "10-02",
+    "births": 5237,
+    "probability": 0.00313716986184352
+  },
+  {
+    "day": 3,
+    "month": 10,
+    "date": "10-03",
+    "births": 5444,
+    "probability": 0.003261171038357098
+  },
+  {
+    "day": 4,
+    "month": 10,
+    "date": "10-04",
+    "births": 5566,
+    "probability": 0.003334253857365101
+  },
+  {
+    "day": 5,
+    "month": 10,
+    "date": "10-05",
+    "births": 4813,
+    "probability": 0.002883177113815708
+  },
+  {
+    "day": 6,
+    "month": 10,
+    "date": "10-06",
+    "births": 4331,
+    "probability": 0.002594440074784091
+  },
+  {
+    "day": 7,
+    "month": 10,
+    "date": "10-07",
+    "births": 5126,
+    "probability": 0.003070676477336239
+  },
+  {
+    "day": 8,
+    "month": 10,
+    "date": "10-08",
+    "births": 4870,
+    "probability": 0.002917322365319447
+  },
+  {
+    "day": 9,
+    "month": 10,
+    "date": "10-09",
+    "births": 5131,
+    "probability": 0.003073671674836567
+  },
+  {
+    "day": 10,
+    "month": 10,
+    "date": "10-10",
+    "births": 5507,
+    "probability": 0.003298910526861231
+  },
+  {
+    "day": 11,
+    "month": 10,
+    "date": "10-11",
+    "births": 5324,
+    "probability": 0.0031892862983492268
+  },
+  {
+    "day": 12,
+    "month": 10,
+    "date": "10-12",
+    "births": 4764,
+    "probability": 0.0028538241783124937
+  },
+  {
+    "day": 13,
+    "month": 10,
+    "date": "10-13",
+    "births": 4148,
+    "probability": 0.002484815846272087
+  },
+  {
+    "day": 14,
+    "month": 10,
+    "date": "10-14",
+    "births": 5061,
+    "probability": 0.0030317389098319754
+  },
+  {
+    "day": 15,
+    "month": 10,
+    "date": "10-15",
+    "births": 4933,
+    "probability": 0.0029550618538235793
+  },
+  {
+    "day": 16,
+    "month": 10,
+    "date": "10-16",
+    "births": 5028,
+    "probability": 0.0030119706063298107
+  },
+  {
+    "day": 17,
+    "month": 10,
+    "date": "10-17",
+    "births": 5203,
+    "probability": 0.00311680251884129
+  },
+  {
+    "day": 18,
+    "month": 10,
+    "date": "10-18",
+    "births": 5225,
+    "probability": 0.0031299813878427328
+  },
+  {
+    "day": 19,
+    "month": 10,
+    "date": "10-19",
+    "births": 4689,
+    "probability": 0.002808896215807574
+  },
+  {
+    "day": 20,
+    "month": 10,
+    "date": "10-20",
+    "births": 4400,
+    "probability": 0.002635773800288617
+  },
+  {
+    "day": 21,
+    "month": 10,
+    "date": "10-21",
+    "births": 4839,
+    "probability": 0.0028987521408174134
+  },
+  {
+    "day": 22,
+    "month": 10,
+    "date": "10-22",
+    "births": 4781,
+    "probability": 0.002864007849813609
+  },
+  {
+    "day": 23,
+    "month": 10,
+    "date": "10-23",
+    "births": 5131,
+    "probability": 0.003073671674836567
+  },
+  {
+    "day": 24,
+    "month": 10,
+    "date": "10-24",
+    "births": 5226,
+    "probability": 0.0031305804273427987
+  },
+  {
+    "day": 25,
+    "month": 10,
+    "date": "10-25",
+    "births": 5224,
+    "probability": 0.003129382348342667
+  },
+  {
+    "day": 26,
+    "month": 10,
+    "date": "10-26",
+    "births": 4713,
+    "probability": 0.0028232731638091484
+  },
+  {
+    "day": 27,
+    "month": 10,
+    "date": "10-27",
+    "births": 4257,
+    "probability": 0.002550111151779237
+  },
+  {
+    "day": 28,
+    "month": 10,
+    "date": "10-28",
+    "births": 5238,
+    "probability": 0.0031377689013435857
+  },
+  {
+    "day": 29,
+    "month": 10,
+    "date": "10-29",
+    "births": 4872,
+    "probability": 0.002918520444319578
+  },
+  {
+    "day": 30,
+    "month": 10,
+    "date": "10-30",
+    "births": 5126,
+    "probability": 0.003070676477336239
+  },
+  {
+    "day": 31,
+    "month": 10,
+    "date": "10-31",
+    "births": 4872,
+    "probability": 0.002918520444319578
+  },
+  {
+    "day": 1,
+    "month": 11,
+    "date": "11-01",
+    "births": 4641,
+    "probability": 0.0027801423198044258
+  },
+  {
+    "day": 2,
+    "month": 11,
+    "date": "11-02",
+    "births": 3970,
+    "probability": 0.0023781868152604113
+  },
+  {
+    "day": 3,
+    "month": 11,
+    "date": "11-03",
+    "births": 4520,
+    "probability": 0.0027076585402964885
+  },
+  {
+    "day": 4,
+    "month": 11,
+    "date": "11-04",
+    "births": 5166,
+    "probability": 0.003094638057338863
+  },
+  {
+    "day": 5,
+    "month": 11,
+    "date": "11-05",
+    "births": 4797,
+    "probability": 0.0028735924818146584
+  },
+  {
+    "day": 6,
+    "month": 11,
+    "date": "11-06",
+    "births": 5215,
+    "probability": 0.003123990992842077
+  },
+  {
+    "day": 7,
+    "month": 11,
+    "date": "11-07",
+    "births": 5350,
+    "probability": 0.003204861325350932
+  },
+  {
+    "day": 8,
+    "month": 11,
+    "date": "11-08",
+    "births": 5416,
+    "probability": 0.0032443979323552616
+  },
+  {
+    "day": 9,
+    "month": 11,
+    "date": "11-09",
+    "births": 4854,
+    "probability": 0.0029077377333183974
+  },
+  {
+    "day": 10,
+    "month": 11,
+    "date": "11-10",
+    "births": 4637,
+    "probability": 0.002777746161804163
+  },
+  {
+    "day": 11,
+    "month": 11,
+    "date": "11-11",
+    "births": 5000,
+    "probability": 0.002995197500327974
+  },
+  {
+    "day": 12,
+    "month": 11,
+    "date": "11-12",
+    "births": 4564,
+    "probability": 0.0027340162782993746
+  },
+  {
+    "day": 13,
+    "month": 11,
+    "date": "11-13",
+    "births": 4956,
+    "probability": 0.002968839762325088
+  },
+  {
+    "day": 14,
+    "month": 11,
+    "date": "11-14",
+    "births": 5073,
+    "probability": 0.0030389273838327627
+  },
+  {
+    "day": 15,
+    "month": 11,
+    "date": "11-15",
+    "births": 5232,
+    "probability": 0.003134174664343192
+  },
+  {
+    "day": 16,
+    "month": 11,
+    "date": "11-16",
+    "births": 4656,
+    "probability": 0.0027891279123054094
+  },
+  {
+    "day": 17,
+    "month": 11,
+    "date": "11-17",
+    "births": 4440,
+    "probability": 0.002659735380291241
+  },
+  {
+    "day": 18,
+    "month": 11,
+    "date": "11-18",
+    "births": 4463,
+    "probability": 0.00267351328879275
+  },
+  {
+    "day": 19,
+    "month": 11,
+    "date": "11-19",
+    "births": 4443,
+    "probability": 0.0026615324987914377
+  },
+  {
+    "day": 20,
+    "month": 11,
+    "date": "11-20",
+    "births": 4901,
+    "probability": 0.00293589258982148
+  },
+  {
+    "day": 21,
+    "month": 11,
+    "date": "11-21",
+    "births": 5058,
+    "probability": 0.0030299417913317787
+  },
+  {
+    "day": 22,
+    "month": 11,
+    "date": "11-22",
+    "births": 5428,
+    "probability": 0.0032515864063560485
+  },
+  {
+    "day": 23,
+    "month": 11,
+    "date": "11-23",
+    "births": 4833,
+    "probability": 0.0028951579038170197
+  },
+  {
+    "day": 24,
+    "month": 11,
+    "date": "11-24",
+    "births": 4383,
+    "probability": 0.002625590128787502
+  },
+  {
+    "day": 25,
+    "month": 11,
+    "date": "11-25",
+    "births": 4622,
+    "probability": 0.002768760569303179
+  },
+  {
+    "day": 26,
+    "month": 11,
+    "date": "11-26",
+    "births": 4270,
+    "probability": 0.00255789866528009
+  },
+  {
+    "day": 27,
+    "month": 11,
+    "date": "11-27",
+    "births": 4761,
+    "probability": 0.002852027059812297
+  },
+  {
+    "day": 28,
+    "month": 11,
+    "date": "11-28",
+    "births": 4949,
+    "probability": 0.002964646485824629
+  },
+  {
+    "day": 29,
+    "month": 11,
+    "date": "11-29",
+    "births": 4887,
+    "probability": 0.002927506036820562
+  },
+  {
+    "day": 30,
+    "month": 11,
+    "date": "11-30",
+    "births": 4681,
+    "probability": 0.0028041038998070492
+  },
+  {
+    "day": 1,
+    "month": 12,
+    "date": "12-01",
+    "births": 4738,
+    "probability": 0.0028382491513107883
+  },
+  {
+    "day": 2,
+    "month": 12,
+    "date": "12-02",
+    "births": 4630,
+    "probability": 0.002773552885303704
+  },
+  {
+    "day": 3,
+    "month": 12,
+    "date": "12-03",
+    "births": 4445,
+    "probability": 0.002662730577791569
+  },
+  {
+    "day": 4,
+    "month": 12,
+    "date": "12-04",
+    "births": 5034,
+    "probability": 0.0030155648433302044
+  },
+  {
+    "day": 5,
+    "month": 12,
+    "date": "12-05",
+    "births": 5039,
+    "probability": 0.0030185600408305325
+  },
+  {
+    "day": 6,
+    "month": 12,
+    "date": "12-06",
+    "births": 5105,
+    "probability": 0.0030580966478348614
+  },
+  {
+    "day": 7,
+    "month": 12,
+    "date": "12-07",
+    "births": 4793,
+    "probability": 0.002871196323814396
+  },
+  {
+    "day": 8,
+    "month": 12,
+    "date": "12-08",
+    "births": 4721,
+    "probability": 0.002828065479809673
+  },
+  {
+    "day": 9,
+    "month": 12,
+    "date": "12-09",
+    "births": 4626,
+    "probability": 0.0027711567273034417
+  },
+  {
+    "day": 10,
+    "month": 12,
+    "date": "12-10",
+    "births": 4243,
+    "probability": 0.002541724598778319
+  },
+  {
+    "day": 11,
+    "month": 12,
+    "date": "12-11",
+    "births": 4923,
+    "probability": 0.0029490714588229234
+  },
+  {
+    "day": 12,
+    "month": 12,
+    "date": "12-12",
+    "births": 5236,
+    "probability": 0.0031365708223434546
+  },
+  {
+    "day": 13,
+    "month": 12,
+    "date": "12-13",
+    "births": 4798,
+    "probability": 0.002874191521314724
+  },
+  {
+    "day": 14,
+    "month": 12,
+    "date": "12-14",
+    "births": 4873,
+    "probability": 0.0029191194838196436
+  },
+  {
+    "day": 15,
+    "month": 12,
+    "date": "12-15",
+    "births": 4976,
+    "probability": 0.0029808205523264
+  },
+  {
+    "day": 16,
+    "month": 12,
+    "date": "12-16",
+    "births": 4480,
+    "probability": 0.002683696960293865
+  },
+  {
+    "day": 17,
+    "month": 12,
+    "date": "12-17",
+    "births": 4004,
+    "probability": 0.0023985541582626415
+  },
+  {
+    "day": 18,
+    "month": 12,
+    "date": "12-18",
+    "births": 5140,
+    "probability": 0.003079063030337157
+  },
+  {
+    "day": 19,
+    "month": 12,
+    "date": "12-19",
+    "births": 5035,
+    "probability": 0.00301616388283027
+  },
+  {
+    "day": 20,
+    "month": 12,
+    "date": "12-20",
+    "births": 5491,
+    "probability": 0.0032893258948601812
+  },
+  {
+    "day": 21,
+    "month": 12,
+    "date": "12-21",
+    "births": 4988,
+    "probability": 0.002988009026327187
+  },
+  {
+    "day": 22,
+    "month": 12,
+    "date": "12-22",
+    "births": 4956,
+    "probability": 0.002968839762325088
+  },
+  {
+    "day": 23,
+    "month": 12,
+    "date": "12-23",
+    "births": 4077,
+    "probability": 0.00244228404176743
+  },
+  {
+    "day": 24,
+    "month": 12,
+    "date": "12-24",
+    "births": 3382,
+    "probability": 0.0020259515892218417
+  },
+  {
+    "day": 25,
+    "month": 12,
+    "date": "12-25",
+    "births": 3094,
+    "probability": 0.0018534282132029504
+  },
+  {
+    "day": 26,
+    "month": 12,
+    "date": "12-26",
+    "births": 5013,
+    "probability": 0.0030029850138288267
+  },
+  {
+    "day": 27,
+    "month": 12,
+    "date": "12-27",
+    "births": 5594,
+    "probability": 0.0033510269633669374
+  },
+  {
+    "day": 28,
+    "month": 12,
+    "date": "12-28",
+    "births": 5199,
+    "probability": 0.0031144063608410273
+  },
+  {
+    "day": 29,
+    "month": 12,
+    "date": "12-29",
+    "births": 5057,
+    "probability": 0.003029342751831713
+  },
+  {
+    "day": 30,
+    "month": 12,
+    "date": "12-30",
+    "births": 4109,
+    "probability": 0.0024614533057695292
+  },
+  {
+    "day": 31,
+    "month": 12,
+    "date": "12-31",
+    "births": 3382,
+    "probability": 0.0020259515892218417
+  }
+]

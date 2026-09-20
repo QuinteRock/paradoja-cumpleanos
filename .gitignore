@@ -1,0 +1,19 @@
+# Dependencies & build
+node_modules/
+dist/
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+
+# Vite
+.vite/
+
+# Temp / local scratch
+tmp_*.txt
+
+# INEGI microdatos: nacim24.dbf supera el límite de 100 MB de GitHub.
+# Regenera data/mexicoBirthdays2024.json con: npm run process:inegi
+# (coloca el DBF oficial en natalidad_base_datos_2024_dbf/)
+natalidad_base_datos_2024_dbf/*.dbf

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Distribución INEGI 2024 · Cumpleaños</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/styles.css" />
+    <link rel="stylesheet" href="/distribucion.css" />
+  </head>
+  <body class="page-distribucion">
+    <div class="dist-wrap">
+      <nav class="dist-nav">
+        <a class="dist-back" href="/">← Paradoja</a>
+      </nav>
+
+      <header class="dist-header">
+        <h1>Distribución de nacimientos</h1>
+        <p class="dist-sub">México · INEGI 2024 · 365 días (sin 29 feb)</p>
+      </header>
+
+      <section class="dist-stats" id="distStats" aria-live="polite">
+        <div class="dist-stat">
+          <span class="dist-stat-label">Nacimientos válidos</span>
+          <span class="dist-stat-value" id="statTotal">—</span>
+        </div>
+        <div class="dist-stat">
+          <span class="dist-stat-label">Día con más</span>
+          <span class="dist-stat-value" id="statMax">—</span>
+        </div>
+        <div class="dist-stat">
+          <span class="dist-stat-label">Día con menos</span>
+          <span class="dist-stat-value" id="statMin">—</span>
+        </div>
+      </section>
+
+      <p class="dist-hint">Cada celda es un día del año. Más intenso = más nacimientos.</p>
+
+      <div class="dist-legend" aria-hidden="true">
+        <span>Menos</span>
+        <div class="dist-legend-bar"></div>
+        <span>Más</span>
+      </div>
+
+      <div class="dist-calendar" id="calendar"></div>
+
+      <div class="dist-detail" id="detail" hidden>
+        <p class="dist-detail-date" id="detailDate"></p>
+        <p class="dist-detail-births" id="detailBirths"></p>
+        <p class="dist-detail-prob" id="detailProb"></p>
+      </div>
+
+      <section class="dist-chart-block">
+        <h2>Por mes</h2>
+        <p class="dist-scale-note">Escala fija 0–50% del total anual</p>
+        <div class="dist-bars" id="monthBars"></div>
+      </section>
+
+      <footer class="dist-footer">
+        Fuente: INEGI · Estadística de Nacimientos Registrados 2024
+        · campos <code>DIA_NAC</code> / <code>MES_NAC</code>
+      </footer>
+    </div>
+
+    <script type="module" src="/distribucion.js"></script>
+  </body>
+</html>

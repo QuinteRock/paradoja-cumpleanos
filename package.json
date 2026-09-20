@@ -1,0 +1,16 @@
+{
+  "name": "paradoja-cumpleanos",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "process:inegi": "node scripts/processInegiBirthdays.js"
+  },
+  "devDependencies": {
+    "dbffile": "^1.13.0",
+    "vite": "^6.2.0"
+  }
+}

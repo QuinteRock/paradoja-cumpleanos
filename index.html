@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    <title>Paradoja del cumpleaños</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <!-- Controles de grabación: viven fuera del lienzo 9:16 (espacio lateral) -->
+    <aside class="director" id="director">
+      <button type="button" class="director-fab" id="directorFab" aria-expanded="false" title="Opciones de video">
+        Opciones
+      </button>
+      <div class="director-panel" id="directorPanel" hidden>
+        <p class="director-title">Mostrar en pantalla</p>
+        <p class="director-hint">Activa funciones poco a poco para el video</p>
+        <label class="director-opt">
+          <input type="checkbox" id="revealMode" />
+          <span>Uniforme / INEGI</span>
+        </label>
+        <label class="director-opt">
+          <input type="checkbox" id="revealSim100" />
+          <span>Simular 100 grupos</span>
+        </label>
+        <label class="director-opt">
+          <input type="checkbox" id="revealSim10000" />
+          <span>10,000 grupos</span>
+        </label>
+        <label class="director-opt">
+          <input type="checkbox" id="revealCompare" />
+          <span>Comparar ambos</span>
+        </label>
+        <label class="director-opt">
+          <input type="checkbox" id="revealAvg100" />
+          <span>Promedio 100 × 10k</span>
+        </label>
+      </div>
+    </aside>
+
+    <!-- Lienzo 9:16 pensado para grabación vertical (1080×1920) -->
+    <div class="stage" id="stage">
+      <div class="bg-glow" aria-hidden="true"></div>
+
+      <header class="header">
+        <h1 class="title" id="mainTitle">¿97% de probabilidad?</h1>
+        <p class="subtitle" id="subtitle">50 personas · 365 días</p>
+      </header>
+
+      <!-- Selector de distribución (ocultable para el video) -->
+      <div class="mode-toggle reveal-target" data-reveal="mode" role="group" aria-label="Modelo de cumpleaños">
+        <button type="button" class="mode-btn is-active" id="modeUniform" data-mode="uniform">
+          Uniforme
+        </button>
+        <button type="button" class="mode-btn" id="modeInegi" data-mode="inegi">
+          INEGI 2024
+        </button>
+      </div>
+      <p class="mode-extra reveal-target" data-reveal="mode">
+        <a class="dist-nav-link" href="/distribucion.html">Ver distribución INEGI →</a>
+      </p>
+
+      <div class="grid-wrap">
+        <div class="people-grid" id="peopleGrid" aria-live="polite"></div>
+      </div>
+
+      <!-- Panel de coincidencia (simulación individual) -->
+      <div class="match-banner" id="matchBanner" hidden>
+        <p class="match-label" id="matchLabel">¡COINCIDENCIA!</p>
+        <ul class="match-list" id="matchList"></ul>
+      </div>
+
+      <!-- Panel de resultados batch -->
+      <div class="batch-panel" id="batchPanel" hidden>
+        <p class="batch-experiment" id="batchExperiment">Experimento<br /><span>0 / 100</span></p>
+        <p class="batch-hint" id="batchHint">
+          Cada unidad del contador = 1 grupo nuevo de 50 personas (no se reutiliza)
+        </p>
+        <div class="batch-progress" aria-hidden="true">
+          <div class="batch-progress-bar" id="batchProgressBar"></div>
+        </div>
+        <div class="batch-counters">
+          <div class="counter with">
+            <span class="counter-label" id="withMatchLabel">CON COINCIDENCIA</span>
+            <span class="counter-value" id="withMatch">0</span>
+          </div>
+          <div class="counter without">
+            <span class="counter-label" id="withoutMatchLabel">SIN COINCIDENCIA</span>
+            <span class="counter-value" id="withoutMatch">0</span>
+          </div>
+        </div>
+        <div class="batch-result" id="batchResult" hidden>
+          <p class="result-heading">Resultado</p>
+          <p class="result-summary" id="resultSummary"></p>
+          <p class="result-percent" id="resultPercent"></p>
+          <p class="result-theory" id="resultTheory"></p>
+          <div class="compare-10k" id="compare10k" hidden>
+            <div class="compare-col">
+              <span class="compare-label">MODELO UNIFORME</span>
+              <span class="compare-value" id="compareUniform">—</span>
+            </div>
+            <div class="compare-col">
+              <span class="compare-label">INEGI 2024</span>
+              <span class="compare-value" id="compareInegi">—</span>
+            </div>
+          </div>
+          <!-- Lista de 100 corridas × 10k (promedio) -->
+          <div class="avg-runs" id="avgRuns" hidden>
+            <p class="avg-runs-head">
+              <span>Uniforme</span>
+              <span>INEGI</span>
+            </p>
+            <ol class="avg-runs-list" id="avgRunsList"></ol>
+          </div>
+        </div>
+      </div>
+
+      <div class="stats" id="stats">
+        <div class="stat">
+          <span class="stat-label">Personas</span>
+          <span class="stat-value" id="statPeople">50</span>
+        </div>
+        <div class="stat">
+          <span class="stat-label">Fechas repetidas</span>
+          <span class="stat-value" id="statRepeats">0</span>
+        </div>
+        <div class="stat">
+          <span class="stat-label">¿Hubo coincidencia?</span>
+          <span class="stat-value" id="statMatch">—</span>
+        </div>
+      </div>
+
+      <div class="actions">
+        <button type="button" class="btn btn-primary" id="btnGenerate">
+          Generar 50 cumpleaños
+        </button>
+        <button type="button" class="btn btn-accent reveal-target" data-reveal="sim100" id="btnSim100">
+          Simular 100 grupos
+        </button>
+        <button type="button" class="btn btn-muted reveal-target" data-reveal="sim10000" id="btnSim10000">
+          Simular 10,000 grupos
+        </button>
+        <button type="button" class="btn btn-compare reveal-target" data-reveal="compare" id="btnCompareBoth">
+          Comparar ambos · 10,000 c/u
+        </button>
+        <button type="button" class="btn btn-avg reveal-target" data-reveal="avg100" id="btnAvg100">
+          Promedio · 100 × 10,000
+        </button>
+      </div>
+
+      <footer class="theory">
+        <p class="theory-formula" id="theoryFormula">
+          P(coincidencia) = 1 − P(todos diferentes)
+        </p>
+        <p class="theory-expand" id="theoryExpand">
+          P = 1 − (365/365 × 364/365 × … × 316/365)
+        </p>
+        <p class="theory-value" id="theoryValue">≈ 97.04%</p>
+        <p class="theory-hints" id="theoryHints">
+          23 → 50.73% · 30 → 70.63% · 40 → 89.12% · 50 → 97.04%
+        </p>
+        <p class="source-note reveal-target" data-reveal="mode" id="sourceNote" hidden>
+          Fuente: INEGI · Estadística de Nacimientos Registrados 2024
+          · <a class="source-link" href="/distribucion.html">Ver distribución</a>
+        </p>
+      </footer>
+    </div>
+
+    <script type="module" src="/main.js"></script>
+  </body>
+</html>
