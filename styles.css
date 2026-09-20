@@ -167,16 +167,21 @@ body {
   }
 }
 
-/* Escenario centrado 9:16 — captura ideal a 1080×1920 */
+/* Escenario: llena la altura del viewport.
+   En 1080×1920 queda 9:16; en ultrawide vertical (p. ej. 1440×3440) usa todo el alto. */
 .stage {
+  --stage-w: min(100vw, calc(100dvh * 9 / 16), 1200px);
   position: relative;
-  width: min(100vw, calc(100vh * 9 / 16));
-  height: min(100vh, calc(100vw * 16 / 9));
+  width: var(--stage-w);
+  height: 100dvh;
+  max-height: 100dvh;
   margin: 0 auto;
-  padding: 2.2% 3.5% 1.8%;
+  padding: clamp(0.75rem, 1.4vh, 2rem) clamp(0.9rem, 3.2cqi, 2rem);
   display: flex;
   flex-direction: column;
-  gap: 1.1%;
+  gap: clamp(0.4rem, 0.9vh, 1.1rem);
+  container-type: size;
+  container-name: stage;
   background:
     radial-gradient(ellipse 80% 50% at 50% -10%, rgba(61, 224, 197, 0.12), transparent 55%),
     radial-gradient(ellipse 60% 40% at 90% 80%, rgba(255, 107, 107, 0.06), transparent 50%),
@@ -185,6 +190,58 @@ body {
   overflow-y: auto;
   scrollbar-width: thin;
   scrollbar-color: rgba(61, 224, 197, 0.35) transparent;
+}
+
+/* Ultrawide / monitores muy altos en vertical: tipografía y controles más grandes */
+@media (min-height: 2200px) {
+  .stage {
+    --stage-w: min(100vw, 1320px);
+    padding: clamp(1.25rem, 1.8vh, 2.75rem) clamp(1.5rem, 4vw, 3rem);
+    gap: clamp(0.65rem, 1.1vh, 1.5rem);
+  }
+
+  .title {
+    font-size: clamp(2rem, 3.4vh, 4rem) !important;
+  }
+
+  .subtitle {
+    font-size: clamp(1rem, 1.5vh, 1.6rem) !important;
+  }
+
+  .batch-experiment span {
+    font-size: clamp(1.8rem, 3.2vh, 3.2rem) !important;
+  }
+
+  .counter-value {
+    font-size: clamp(2.2rem, 4vh, 4rem) !important;
+  }
+
+  .result-percent {
+    font-size: clamp(2.2rem, 3.8vh, 3.8rem) !important;
+  }
+
+  .btn {
+    font-size: clamp(1rem, 1.6vh, 1.45rem) !important;
+    padding: 0.85em 1.1em !important;
+  }
+
+  .stat-value {
+    font-size: clamp(1.2rem, 2vh, 1.8rem) !important;
+  }
+
+  .person-num {
+    font-size: clamp(0.55rem, 0.9vh, 0.85rem) !important;
+  }
+
+  .person-date {
+    font-size: clamp(0.5rem, 0.85vh, 0.8rem) !important;
+  }
+}
+
+@media (min-height: 3000px) {
+  .stage {
+    --stage-w: min(100vw, 1440px);
+  }
 }
 
 .bg-glow {
@@ -662,6 +719,10 @@ body {
   text-align: center;
   padding-top: 0.55rem;
   border-top: 1px solid var(--border);
+  flex: 1 1 auto;
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
 }
 
 .batch-result[hidden] {
@@ -831,6 +892,10 @@ body {
   margin-top: 0.5rem;
   padding-top: 0.45rem;
   border-top: 1px solid var(--border);
+  flex: 1 1 auto;
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
 }
 
 .avg-runs[hidden] {
@@ -860,7 +925,9 @@ body {
 
 .avg-runs-list {
   list-style: none;
-  max-height: 14em;
+  flex: 1 1 auto;
+  min-height: 8em;
+  max-height: none;
   overflow-y: auto;
   scrollbar-width: thin;
   scrollbar-color: rgba(61, 224, 197, 0.35) transparent;
@@ -937,6 +1004,22 @@ body {
 
 .stage.mode-batch .batch-panel {
   flex: 1 1 auto;
+  min-height: 40%;
+}
+
+/* En pantallas muy altas, la lista de corridas crece para llenar el vacío */
+@media (min-height: 2200px) {
+  .avg-runs-list {
+    font-size: clamp(0.75rem, 1.2vh, 1.15rem);
+  }
+
+  .avg-runs-list li {
+    padding: 0.35em 0.2rem;
+  }
+
+  .compare-value {
+    font-size: clamp(1.4rem, 2.4vh, 2.2rem);
+  }
 }
 
 .stage.is-busy .btn:not(:disabled) {
