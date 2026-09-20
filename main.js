@@ -558,7 +558,8 @@ async function runBatch100() {
   const n = peopleCount;
   let withMatch = 0;
   let withoutMatch = 0;
-  const delayMs = 65;
+  // ~30 ms × 100 ≈ 3 s (antes 65 ms ≈ 6.5 s)
+  const delayMs = 30;
 
   batchExperiment.innerHTML = `Experimento<br /><span>0 / ${total}</span>`;
   withMatchEl.textContent = "0";
